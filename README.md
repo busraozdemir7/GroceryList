@@ -4,6 +4,6 @@
 
 - Bu proje, JavaScript kullanılarak geliştirilmiş basit bir alışveriş listesi uygulamasıdır. Bu uygulama, kullanıcıların çeşitli ürünleri listeleyebilecekleri, yeni ürünler ekleyebilecekleri, var olan ürünleri işaretleyebilecekleri veya silebilecekleri bir platform sağlar.
 
-<img src="Screen.gif" />
+### Gif
 
-
+<img src="Screen.gif" /> 
